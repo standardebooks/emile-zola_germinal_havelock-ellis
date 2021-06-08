@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/emile-zola/germinal/havelock-ellis</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-06-08T00:42:22Z</dc:date>
+		<meta property="dcterms:modified">2021-06-08T00:42:22Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,15 +49,21 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Rougon-Macquart</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">13</meta>
+		<dc:description id="description">A new resident of a poor coal mining town in 1860s France begins learning about socialist principles, and convinces the town to go on strike.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Germinal&lt;/i&gt;, named after the spring month in the French Republican Calendar, is often considered to be &lt;a href="https://standardebooks.org/ebooks/emile-zola"&gt;Zola&lt;/a&gt;‘s masterpiece. The book follows Étienne Lantier, a young man whose career as a railway worker is abruptly cut short after he attacked a superior. He arrives in Montsou, a coal mining town in the north of France, to begin a new life in a different industry. And the only industry around is mining coal.&lt;/p&gt;
+			&lt;p&gt;Étienne quickly befriends the locals as he embraces his new life in the mines, but the abject poverty of the miners shocks him, and he soon begins reading about socialism. When the owners of the mine conspire to lower the miners’ wages, Étienne seizes the opportunity and convinces the town to strike.&lt;/p&gt;
+			&lt;p&gt;Zola’s depiction of the mining town is shockingly bleak in its detail. He spent months researching the conditions of real-life miners, even going so far as pose as a government offical so that he could descend into a mine personally. His encounter with a mining horse—brought underground as a foal to haul coal, never to see the light of day again—affected him so much that he wrote the animal into the plot. Montsou itself is a fully-realized town, with families and characters leading interconnected and nuanced lives across generations: lives so destitute, grueling, and filthy that Zola had to repeatedly defend his work against claims of hyperbole.&lt;/p&gt;
+			&lt;p&gt;Ultimately, the novel was a rallying cry for the workers of the world in an era when communist and socialist ideas where beginning to spread amongst the impoverished working class. The shabby but good-hearted inhabitants of Montsou, so blatantly oppressed by the bourgeois mine owners, are a blank slate for workers of any industry to identify with, and identify they did: &lt;i&gt;Germinal&lt;/i&gt; inspired socialist causes for decades after its publication, with crowds chanting “Germinal!” at Zola’s funeral.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56528</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001226534</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">179796</meta>
+		<meta property="se:reading-ease.flesch">70.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Germinal_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-zola_germinal_havelock-ellis</meta>
 		<dc:creator id="author">Émile Zola</dc:creator>
