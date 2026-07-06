@@ -65,7 +65,7 @@
 		<meta property="schema:wordCount">178144</meta>
 		<meta property="schema:educationalLevel">70.43</meta>
 		<link href="https://en.wikipedia.org/wiki/Germinal_(novel)" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/emile-zola_germinal_havelock-ellis" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Émile Zola</dc:creator>
