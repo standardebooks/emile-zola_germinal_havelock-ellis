@@ -52,7 +52,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Rougon-Macquart</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">13</meta>
-		<dc:abstract>A new resident of a poor coal mining town in 1860s France begins learning about socialist principles, and convinces the town to go on strike.</dc:abstract>
+		<meta property="schema:abstract">A new resident of a poor coal mining town in 1860s France begins learning about socialist principles, and convinces the town to go on strike.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Germinal&lt;/i&gt;, named after the spring month in the French Republican Calendar, is often considered to be &lt;a href="https://standardebooks.org/ebooks/emile-zola"&gt;Zola’s&lt;/a&gt; masterpiece. The book follows Étienne Lantier, a young man whose career as a railway worker is abruptly cut short after he attacks a superior. He arrives in Montsou, a coal mining town in the north of France, to begin a new life in a different industry. And the only industry around is mining coal.&lt;/p&gt;
 			&lt;p&gt;Étienne quickly befriends the locals as he embraces his new life in the mines, but the abject poverty of the miners shocks him, and he soon begins reading about socialism. When the owners of the mine conspire to lower the miners’ wages, Étienne seizes the opportunity and convinces the town to strike.&lt;/p&gt;
